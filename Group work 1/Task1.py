@@ -37,9 +37,3 @@ result = linear_search(lost_found_bin, target)
 # 2.Would binary search work? (No. Only if items are sorted)
 # 3. What happens if the data becomes large? (Search time becomes slower with increase of items)
 
-# Group members
-# 1. Keith Kimani
-# 2. Wilson Yugi
-# 3. Evans Charlton
-# 4. Trent Abongo
-# 5. Osman Mohammed
